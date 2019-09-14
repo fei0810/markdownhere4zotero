@@ -25,6 +25,8 @@ firefox/
 zip -r ./markdownhere4zoter.zip ./
 ```
 
+然后修改 `markdownhere4zoter.zip` 为 `markdownhere4zoter.xpi` 即可。
+
 ## 下载地址
 
 点击链接可以直接下载，然后按照正常插件安装即可
