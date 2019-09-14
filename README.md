@@ -8,9 +8,9 @@ markdown here github https://github.com/adam-p/markdown-here
 
 ## Zotero 插件制作
 
-Zotero 的插件格式和Firefox一致，后缀为xpi，但是本质其实是一个zip压缩文件
+Zotero 的插件格式和 Firefox 一致，后缀为 xpi，但是本质其实是一个 zip 压缩文件
 
-新建一个目录`markdownhere4zoter`包含如下内容
+新建一个目录`markdownhere4zotero`包含如下内容
 
 ```
 chrome.manifest
@@ -19,13 +19,13 @@ common/
 firefox/
 ```
 
-在该目录下进行zip即可
+在该目录下进行 zip 即可
 
 ```sh
-zip -r ./markdownhere4zoter.zip ./
+zip -r ./markdownhere4zotero.zip ./
 ```
 
-然后修改 `markdownhere4zoter.zip` 为 `markdownhere4zoter.xpi` 即可。
+然后修改 `markdownhere4zotero.zip` 为 `markdownhere4zotero.xpi` 即可。
 
 ## 下载地址
 
