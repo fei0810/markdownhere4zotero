@@ -20,3 +20,7 @@ firefox/
 ```sh
 zip -r ./markdownhere4zoter.zip ./
 ```
+
+## 下载地址
+
+http://url.kaopubear.top/PT9lBK
