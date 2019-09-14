@@ -6,9 +6,9 @@
 
 markdown here github https://github.com/adam-p/markdown-here
 
-## zotero 插件制作
+## Zotero 插件制作
 
-zotero 的插件格式和Firefox一致，后缀为xpi，但是本质其实是一个zip压缩文件
+Zotero 的插件格式和Firefox一致，后缀为xpi，但是本质其实是一个zip压缩文件
 
 新建一个目录`markdownhere4zoter`包含如下内容
 
@@ -26,5 +26,7 @@ zip -r ./markdownhere4zoter.zip ./
 ```
 
 ## 下载地址
+
+点击链接可以直接下载，然后按照正常插件安装即可
 
 http://url.kaopubear.top/PT9lBK
