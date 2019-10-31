@@ -31,4 +31,4 @@ zip -r ./markdownhere4zotero.zip ./
 
 点击链接可以直接下载，然后按照正常插件安装即可
 
-http://url.kaopubear.top/PT9lBK
+https://kaopubear.cowtransfer.com/s/3c191f9a3ebf42
