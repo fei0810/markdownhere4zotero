@@ -27,8 +27,6 @@ zip -r ./markdownhere4zotero.zip ./
 
 然后修改 `markdownhere4zotero.zip` 为 `markdownhere4zotero.xpi` 即可。
 
-## 下载地址
+## 使用
 
-点击链接可以直接下载，然后按照正常插件安装即可
-
-https://kaopubear.cowtransfer.com/s/b4a06a3d993840
+下载xpi格式文件，然后按照正常插件安装即可
